@@ -1,0 +1,35 @@
+_repo: -Co.-Aytch---Maury-Grays-First-Tennessee-Regiment--13-Or-A-Side-Show-of-the-Big-Show_13202
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Watkins, Samuel R. (Samuel Rush)
+    alias: Watkins, Sam
+    gutenberg_agent_id: '4899'
+    url: http://www.gutenberg.org/2009/agents/4899
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2004-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13202'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tennessee -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'Watkins, Samuel R. (Samuel Rush)'
+- !lcsh 'Tennessee -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+- !lcc 'E456'
+- !lcsh 'Confederate States of America. Army. Tennessee Infantry Regiment, 1st. Company
+  H'
+- !lcsh 'Soldiers -- Tennessee -- Biography'
+title: "\"Co. Aytch,\" Maury Grays, First Tennessee Regiment\r\nOr, A Side Show of\
+  \ the Big Show"
+url: http://www.gutenberg.org/ebooks/13202
